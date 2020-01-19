@@ -1,3 +1,5 @@
 notebook_data/.cache/
 notebook_data/.*
+notebook_data/examples/.ipynb_checkpoints/
 notebook_data/tensorflow_datasets/
+venv/
