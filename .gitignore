@@ -1,0 +1,3 @@
+notebook_data/.cache/
+notebook_data/.*
+notebook_data/tensorflow_datasets/
